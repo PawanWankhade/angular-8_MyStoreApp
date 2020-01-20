@@ -10,9 +10,14 @@ export const products = [
     description: 'A great phone with one of the best cameras'
   },
   {
+    name: 'Phone small',
+    price: 754,
+    description: 'affordable phone'
+  },
+  {
     name: 'Phone Standard',
-    price: 299,
-    description: ''
+    price: 100,
+    description: 'Standard phone with better camera'
   }
 ];
 
